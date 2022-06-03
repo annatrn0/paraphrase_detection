@@ -1,4 +1,4 @@
-The paraphrase corpus has been obtained from the ParaPhraser project 
+The paraphrase corpus obtained from the ParaPhraser project 
 website: http://paraphraser.ru/
 vk: https://vk.com/paraphraser
 
