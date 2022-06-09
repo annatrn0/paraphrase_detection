@@ -11,4 +11,4 @@ Paraphrase classes include:
 * 1 - strict paraphrases
 
 ## Structure
-The notebook with [paraphrase detection algorithm](https://github.com/annatrn0/paraphrase_detection/blob/main/Paraphrase_detection.ipynb).
+In the notebook with [paraphrase detection algorithm](https://github.com/annatrn0/paraphrase_detection/blob/main/Paraphrase_detection.ipynb) we try to detect 7 syntactic and 7 lexic transformations which lead to a paraphrase. Some functions which detect a transformation require .txt files that are stored in [data](https://github.com/annatrn0/paraphrase_detection/tree/main/data) (they are also incorporated into the ipynb file so you don't have to dowload them to run the code). 
